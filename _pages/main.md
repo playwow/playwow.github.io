@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "精彩"
+title: "Playwow"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
