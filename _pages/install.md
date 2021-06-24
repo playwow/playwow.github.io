@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "如何安装运行魔兽世界单机版"
 excerpt: "About me"
 author_profile: true
