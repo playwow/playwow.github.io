@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "如何安装运行魔兽单机版"
+title: "如何安装运行魔兽世界单机版"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,7 +28,7 @@ redirect_from:
 ![](../images/4.png)
 表示安装成功！
 
-### 步骤4：运行魔兽单机
+### 步骤4：运行魔兽世界单机
 点击**一键启动**，大概需要等待半分钟，启动就会成功！
 
 ### 步骤4：注册游戏账号

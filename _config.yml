@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "魔兽单机"
+title                    : "魔兽世界单机"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "魔兽单机技术"
-  avatar           : "log.jpeg"
+  name             : "魔兽世界单机技术"
+  avatar           : "logo.jpeg"
   bio              : "https://playwow.github.io"
 #  location         : "Location"
 #  employer         :
