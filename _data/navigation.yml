@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "安装指引"
+  - title: "如何安装运行"
     url: /install/
 
-  - title: "注册账号指引"
+  - title: "如何注册账号"
     url: /reg/
 
   - title: "GM指令大全"
     url: /gm/
     
-  - title: "联机指引"
+  - title: "如何联机"
     url: /multi/
+
+  - title: "客服QQ(591218740)"
+    url: /kefu/
