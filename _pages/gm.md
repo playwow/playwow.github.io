@@ -21,14 +21,14 @@ author_profile: true
 ### 添加物品
 .additem xxx 添加物品 (xxx就是物品ID)
 
-可以通过lookup item 奥的灰烬，先搜索出物品ID，然后进行添加。
+可以通过.lookup item 奥的灰烬，先搜索出物品ID，然后进行添加。
 
 可以指定添加的数量：.additem 25 10，添加10把破损的短剑
 
 ### 添加技能
 .learn xxx 学习技能(xxx就是技能ID)
 
-可以通过lookup spell 罪孽射线，先搜索出技能ID，然后进行学习。
+可以通过.lookup spell 罪孽射线，先搜索出技能ID，然后进行学习。
 
 
 ### 声望
@@ -121,12 +121,12 @@ author_profile: true
 ### 商业技能
 
 * 先学习技能：.learn 代码
-* 技能加满：setskill 186 375 375
+* 技能加满：.setskill 186 375 375
 
 举例采矿：
 * .learn 29354  学习采矿
-* .setskill 186 375 375  加满采矿
-全13种商业技能相关代码
+* .setskill 186 375 375 加满采矿
+
 ```
 ＝＝铭文＝＝
 .learn 29844   然后用命令升级到450   
