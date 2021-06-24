@@ -1,22 +1,13 @@
 # main links links
 main:
-  - title: "GM指令大全"
+  - title: "安装指引"
     url: /publications/
 
-  - title: "Talks"
+  - title: "注册账号指引"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "GM指令大全"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "如何联机"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
