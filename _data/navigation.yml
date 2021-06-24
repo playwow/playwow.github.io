@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "首页"
-    url: /main/
-
   - title: "如何安装运行"
     url: /install/
 

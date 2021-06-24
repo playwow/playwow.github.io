@@ -1,10 +1,6 @@
 ---
-title: "如何安装运行魔兽世界单机版"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /install/
-  - /install.html
+permalink: /install/
+title: "如何联机"
 ---
 
 ## 安装指引
