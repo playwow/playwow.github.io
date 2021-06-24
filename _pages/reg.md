@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "注册账号指引"
-permalink: /talks/
+permalink: /reg/
 author_profile: true
 ---
 

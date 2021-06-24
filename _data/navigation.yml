@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "安装指引"
-    url: /publications/
+    url: /install/
 
   - title: "注册账号指引"
-    url: /talks/    
+    url: /reg/
 
   - title: "GM指令大全"
-    url: /teaching/    
+    url: /gm/
     
-  - title: "如何联机"
-    url: /portfolio/
+  - title: "联机指引"
+    url: /multi/
