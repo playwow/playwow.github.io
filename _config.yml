@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "魔兽世界单机"
+title                    : "魔兽世界单机,TBC燃烧的远征"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
