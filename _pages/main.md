@@ -45,4 +45,4 @@ redirect_from:
 ![](../images/sw3.jpeg)
 ![](../images/sw4.jpeg)
 ![](../images/sw5.jpeg)
-![](../images/sw6.jpeg)
+![](../images/sw61.jpeg)
